@@ -56,31 +56,7 @@ The model achieved excellent prediction performance.
 
 ---
 
-## 📷 Project Screenshots
 
-### Home Page
-
-![Home](images/home.png)
-
----
-
-### Prediction
-
-![Prediction](images/prediction.png)
-
----
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
----
-
-### Actual vs Predicted
-
-![Actual vs Predicted](images/actual_vs_predicted.png)
-
----
 
 ## ▶️ Run Locally
 
@@ -118,10 +94,4 @@ Add your Streamlit Cloud link here after deployment.
 
 ## 👨‍💻 Author
 
-Hamid
-
-GitHub:
-https://github.com/YourUsername
-
-LinkedIn:
-Add your LinkedIn profile link here.
+Aleesha Nadeem
