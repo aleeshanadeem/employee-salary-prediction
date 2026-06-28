@@ -15,7 +15,7 @@ st.write("Predict employee salary using Machine Learning.")
 
 st.sidebar.header("Employee Information")
 
-# -----------------------------
+# ---------------------------
 # User Inputs
 # -----------------------------
 job_title = st.sidebar.text_input("Job Title", "Machine Learning Engineer")
