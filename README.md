@@ -18,7 +18,7 @@ The model was trained using the Random Forest Regressor algorithm and deployed a
 - Streamlit
 - Joblib
 
----
+-----
 
 ## 📊 Dataset Features
 
