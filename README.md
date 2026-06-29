@@ -1,4 +1,4 @@
-# 💼 Employee Salary Prediction using Machine Learning
+#  Employee Salary Prediction using Machine Learning
 
 ## 📌 Project Overview
 
