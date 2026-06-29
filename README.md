@@ -6,7 +6,7 @@ This project predicts employee salaries based on job-related information such as
 
 The model was trained using the Random Forest Regressor algorithm and deployed as a Streamlit web application.
 
----
+-----
 
 ## 🚀 Technologies Used
 
