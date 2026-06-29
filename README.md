@@ -36,7 +36,7 @@ Target Variable:
 
 - Salary
 
----
+-----
 
 ## 🤖 Machine Learning Model
 
